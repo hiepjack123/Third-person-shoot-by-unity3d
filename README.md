@@ -6,7 +6,6 @@ The scene of this game is not more complicated. Maybe I just beginner so I keep 
 As you can see I dont know how to make player textures and models from designing software so we just borrow existing models in this book
 The source I use I eddit codes from the game because some are so stupid. After 3 months I finished it after the demo of FPS game. 
 The first project have some fun addtional features like you can aim, can reload, make skeleton enemy chase you to die.Ofourse I know they are still stupid
-As you see I will complete the game. I'm afraid of losting my game so I use this as my backup source in the internet
 So we get to the main point after my long description ^^ haha
 * Note: Dont get me wrong this project first is not mine but I try to make it better and different from the demo project.
 So the first idea of this project is "SURVIVAL" and ofcourse life is precious xD. So the game we play we just hit and run aliens( there are many)
