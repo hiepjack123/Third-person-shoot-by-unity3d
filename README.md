@@ -11,5 +11,5 @@ So we get to the main point after my long description ^^ haha
 So the first idea of this project is "SURVIVAL" and ofcourse life is precious xD. So the game we play we just hit and run aliens( there are many)
 In the beggining we in the area and it has aliens which chase us and try to kill us. The support items will appear randomly after time.
 Pick up items will upgrade your gun and your power then you can easily wipe aliens out and survive.To play the game you we have Unity cause I haven't build it yet. Sorry for uncovenient.
-*Note: Use A W S D to move your character. Try to survive wave spawn pick up will appearn try to find it and upgrade your power.
+* Note: Use A W S D to move your character. Try to survive wave spawn pick up will appearn try to find it and upgrade your power.
 Alien can run behind your. They are extremely dangerous. Try to avoid them. 
