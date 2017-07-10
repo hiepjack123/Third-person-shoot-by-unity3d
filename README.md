@@ -13,3 +13,4 @@ In the beggining we in the area and it has aliens which chase us and try to kill
 Pick up items will upgrade your gun and your power then you can easily wipe aliens out and survive.To play the game you we have Unity cause I haven't build it yet. Sorry for uncovenient.
 * Note: Use A W S D to move your character. Try to survive wave spawn pick up will appear try to find it and upgrade your power.
 Alien can run behind your. They are extremely dangerous. Try to avoid them. 
+* I do not build to App yet this project is only seen by using UNITY
